@@ -1,0 +1,9 @@
+.svn/
+build/
+debug/
+dist/
+queuelogs/
+defmplabxtrace.log
+defmplabxtrace.log.inx
+mcc-manifest-autosave.yml
+mcc-manifest-generated-success.yml
